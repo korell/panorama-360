@@ -1,0 +1,10 @@
+.content {
+    position: relative;
+    z-index: 1;
+    min-height: 200vh;
+}
+canvas {
+    display: block;
+    position: fixed;
+    inset: 0 0 0 0;
+}
